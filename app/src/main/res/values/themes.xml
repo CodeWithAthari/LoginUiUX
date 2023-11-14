@@ -1,0 +1,13 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LoginUiUX" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <item name="colorPrimaryContainer">@color/colorPrimaryLight</item>
+        <item name="fontFamily">@font/manrope_semibold</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="Theme.LoginUiUX" parent="Base.Theme.LoginUiUX" />
+</resources>
